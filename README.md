@@ -1,22 +1,23 @@
 # ⚡ Elektronik Tanıtım Sitesi
 
-Bu proje, elektronik ürünlerin veya teknolojik cihazların tanıtımı amacıyla oluşturulmuş, modern ve kullanıcı dostu bir web sitesidir. HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
+Bu proje, elektronik ürün veya teknolojik cihazların tanıtımı amacıyla geliştirilmiş, PHP ve MySQL tabanlı dinamik bir web sitesidir.
 
 ## 🚀 Özellikler
 
-- Responsive ve modern tasarım  
-- Ürün veya hizmet tanıtım bölümleri  
-- Hızlı yükleme ve performans optimizasyonu  
-- Basit navigasyon ve sezgisel kullanıcı arayüzü
+- Dinamik ürün tanıtım sayfaları  
+- MySQL veritabanı ile veri yönetimi  
+- Responsive ve kullanıcı dostu tasarım  
+- Basit ve hızlı navigasyon  
+- PHP ile backend entegrasyonu
 
 ## 🛠️ Kullanılan Teknolojiler
-- PHP
-- HTML5  
-- CSS3 (Flexbox/Grid)  
-- JavaScript (Vanilla JS)
+
+- Backend: PHP  
+- Veritabanı: MySQL  
+- Frontend: HTML5, CSS3, JavaScript
 
 ## 💻 Kurulum
 
-1. Depoyu klonlayın veya indirin:  
+1. Depoyu klonlayın:  
    ```bash
    git clone https://github.com/aliyildizoglu/elektronik_tanitim_sitesi.git
