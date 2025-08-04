@@ -1,0 +1,2 @@
+Options -Indexes
+ErrorDocument 404 /tanitim/admin/resimler/404.php

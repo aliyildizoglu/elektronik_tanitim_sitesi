@@ -1,0 +1,2 @@
+Options All -indexes
+ErrorDocument 403 /tanitim/assets/404.php

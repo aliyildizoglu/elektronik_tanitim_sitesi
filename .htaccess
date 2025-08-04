@@ -1,0 +1,15 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+RewriteRule ^(.*)$ $1.php
+
+RewriteRule ^sayfalar-([0-9a-zA-Z-_]+)-([0-9]+)$  sayfalar.php?sef=$1&kategori_id=$2 [L,QSA]
+Options All -indexes
+ErrorDocument 404 /tanitim/404.php
+
+
+
+
+
+
